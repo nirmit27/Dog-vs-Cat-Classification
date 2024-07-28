@@ -1,4 +1,9 @@
 <div align="center">
 <h1>Dog vs. Cat Image Classification</h1>
-<p>A binary image classification model based on Transfer Learning for categorizing images of cats and dogs.</p>
+<p>A binary image classification model based on <b>Transfer Learning</b> for distinguishing images of dogs from cats.</p>
 </div>
+
+<br>
+
+### Dataset link
+[Kaggle Competiions dataset](https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/data)
