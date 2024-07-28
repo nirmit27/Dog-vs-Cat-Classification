@@ -6,4 +6,4 @@
 <br>
 
 ### Dataset link
-[Kaggle Competiions dataset](https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/data)
+[Kaggle Competitions dataset](https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/data)
